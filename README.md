@@ -1,1 +1,3 @@
-## Today I learned about OpenCV & Computer Vision
+## Today I learned about OpenCV(Open Computer Vision Library)
+
+https://opencv.org/
